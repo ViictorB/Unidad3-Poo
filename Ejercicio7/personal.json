@@ -1,0 +1,48 @@
+[
+    {
+      "tipo": "docente",
+      "cuil": "12345678901",
+      "apellido": "Pérez",
+      "nombre": "Juan",
+      "sueldo_basico": 50000,
+      "antiguedad": 3,
+      "carrera": "Informática",
+      "cargo": "Titular",
+      "catedra": "Programación"
+    },
+    {
+      "tipo": "personal_apoyo",
+      "cuil": "23456789012",
+      "apellido": "González",
+      "nombre": "María",
+      "sueldo_basico": 40000,
+      "antiguedad": 2,
+      "categoria": "Administrativo"
+    },
+    {
+      "tipo": "investigador",
+      "cuil": "34567890123",
+      "apellido": "López",
+      "nombre": "Ana",
+      "sueldo_basico": 55000,
+      "antiguedad": 4,
+      "area_investigacion": "Ciencias Sociales",
+      "tipo_investigacion": "Cualitativa"
+    },
+    {
+      "tipo": "docente_investigador",
+      "cuil": "45678901234",
+      "apellido": "Martínez",
+      "nombre": "Pedro",
+      "sueldo_basico": 60000,
+      "antiguedad": 5,
+      "carrera": "Matemáticas",
+      "cargo": "Adjunto",
+      "catedra": "Álgebra",
+      "area_investigacion": "Ciencias Exactas",
+      "tipo_investigacion": "Experimental",
+      "categoria": "I",
+      "importe_extra": 10000
+    }
+  ]
+  

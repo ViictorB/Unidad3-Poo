@@ -1,0 +1,75 @@
+{
+  "vehiculos": [
+    {
+      "tipo": "nuevo",
+      "modelo": "Palio",
+      "puertas": 4,
+      "color": "Rojo",
+      "precio_base": 20000,
+      "version": "base",
+      "marca": "Fiat"
+    },
+    {
+      "tipo": "nuevo",
+      "modelo": "Focus",
+      "puertas": 5,
+      "color": "Azul",
+      "precio_base": 25000,
+      "version": "full",
+      "marca": "Ford"
+    },
+    {
+      "tipo": "usado",
+      "modelo": "Gol",
+      "puertas": 3,
+      "color": "Blanco",
+      "precio_base": 15000,
+      "marca": "Volkswagen",
+      "patente": "ABC123",
+      "anio": 2015,
+      "kilometraje": 80000
+    },
+    {
+      "tipo": "usado",
+      "modelo": "Clio",
+      "puertas": 3,
+      "color": "Gris",
+      "precio_base": 12000,
+      "marca": "Renault",
+      "patente": "XYZ987",
+      "anio": 2010,
+      "kilometraje": 120000
+    },
+    {
+      "tipo": "nuevo",
+      "modelo": "Civic",
+      "puertas": 4,
+      "color": "Negro",
+      "precio_base": 35000,
+      "version": "full",
+      "marca": "Honda"
+    },
+    {
+      "tipo": "usado",
+      "modelo": "Corsa",
+      "puertas": 5,
+      "color": "Rojo",
+      "precio_base": 10000,
+      "marca": "Chevrolet",
+      "patente": "DEF456",
+      "anio": 2008,
+      "kilometraje": 150000
+    },
+    {
+      "tipo": "usado",
+      "modelo": "Yaris",
+      "puertas": 5,
+      "color": "Plata",
+      "precio_base": 14000,
+      "marca": "Toyota",
+      "patente": "GHI789",
+      "anio": 2013,
+      "kilometraje": 90000
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+nombre;dni;direccion;telefono;tarea;fecha_inicio;fecha_finalizacion;monto_viatico;costo_obra;monto_seguro_vida
+Miguel Hernandez;40378987;Calle Principal 789;987654321;Carpinteria;2022-05-01;2022-05-10;100;15000;50
+Alejandra Rodriguez;41777890;Avenida Central 456;876543210;Electricidad;2023-02-15;2023-03-15;200;25000;75
+Juan Torres;3333888;Plaza Mayor 123;765432109;Plomeria;2022-07-01;2022-07-15;150;18000;60
+Carolina Gomez;41777481;Calle Secundaria 789;654321098;Carpinteria;2023-01-10;2023-02-10;120;20000;70
